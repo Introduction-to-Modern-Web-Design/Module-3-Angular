@@ -5,7 +5,7 @@ Prerequisites:
 
 * having a site running on Github Pages (as per [Module 1](https://github.com/Introduction-to-Modern-Web-Design/Module-1-Bootstrap))
 
-## Topics and Lectures
+## Topics and Discussions
 
 * The Crowded View -- the need to simplify your HTML-pages
 * Tying in Angular to your site, and the idea of a Directive
